@@ -20,7 +20,7 @@ A simple, responsive, and interactive **Quiz Web App** built using **HTML, CSS, 
 
 | Home | Question | Result |
 |------|----------|--------|
-| ![start](![start image](image-2.png)) | ![question](![Q image](image.png)) | ![result](![Reslut image](image-1.png)) |
+| ![start](![start image](images/image-2.png)) | ![question](![Q image](images/image.png)) | ![result](![Reslut image](images/image-1.png)) |
 
 ---
 
